@@ -1,4 +1,4 @@
-{"startingSeason":2005, "version":55,"meta":{"name":"MLB 2005"},"teams": [{"tid":0,"abbrev":"ATL","region":"Atlanta","name":"Braves","imgURL":"https://i.imgur.com/GJJzTeD.png","imgURLSmall":"https://i.imgur.com/Yah2bHJ.png","colors":["#ba031f","#021050","#eaaa00"],"jersey":"baseball2:hat2","cid":1,"did":3,"pop":5.258783560551695,"stadiumCapacity":50000,"disabled":false},{"tid":1,"abbrev":"BAL","region":"Baltimore","name":"Orioles","imgURL":"https://i.imgur.com/xv0teqD.png","imgURLSmall":"https://i.imgur.com/fJhboQ4.png","colors":["#f24c00","#262423","#ffffff"],"jersey":"baseball2:hat2","cid":0,"did":0,"pop":2.7227687396018845,"stadiumCapacity":50000,"disabled":false},{"tid":2,"abbrev":"NYM","region":"New York","name":"Mets","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/121.svg","colors":["#002c72","#fc5312","#002c72"],"jersey":"baseball2:hat3","cid":1,"did":3,"pop":21.316303220280783,"stadiumCapacity":50000,"disabled":false},{"tid":3,"abbrev":"BOS","region":"Boston","name":"Red Sox","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&h=200&w=200","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/RedSox.vresize.350.350.medium.0.png","colors":["#c80729","#041e3e","#cccccc"],"jersey":"baseball2:hat2","cid":0,"did":0,"pop":7.107815452591124,"stadiumCapacity":50000,"disabled":false},{"tid":4,"abbrev":"CWS","region":"Chicago","name":"White Sox","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/145.svg","colors":["#ffffff","#000000","#c5c3c3"],"jersey":"baseball3:hat","cid":0,"did":1,"pop":8.725872492619143,"stadiumCapacity":50000,"disabled":false},{"tid":5,"abbrev":"CIN","region":"Cincinnati","name":"Reds","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/113.svg","colors":["#ffffff","#d60020","#cc001f"],"jersey":"baseball2:hat","cid":1,"did":4,"pop":1.6268547735791523,"stadiumCapacity":50000,"disabled":false},{"tid":6,"abbrev":"CLE","region":"Cleveland","name":"Indians","imgURL":"https://www.pngmart.com/files/22/Cleveland-Indians-Logo-Transparent-PNG.png","imgURLSmall":"https://i.imgur.com/Ku32uHx.png","colors":["#fefefe","#16233f","#d6002e"],"jersey":"baseball2:hat3","cid":0,"did":1,"pop":1.6874525047429818,"stadiumCapacity":50000,"disabled":false},{"tid":7,"abbrev":"TEX","region":"Texas","name":"Rangers","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/140.svg","colors":["#bb042b","#002973","#bb042b"],"jersey":"baseball2:hat","cid":0,"did":2,"pop":6.708907059973135,"stadiumCapacity":50000,"disabled":false},{"tid":8,"abbrev":"COL","region":"Colorado","name":"Rockies","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/col.png&h=200&w=200","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/Rockies-alternate.vresize.350.350.medium.0.png","colors":["#33006f","#000000","#c4ced4"],"jersey":"baseball:hat2","cid":1,"did":5,"pop":2.6246187356922177,"stadiumCapacity":50000,"disabled":false},{"tid":9,"abbrev":"DET","region":"Detroit","name":"Tigers","imgURL":"https://content.sportslogos.net/logos/53/59/full/detroit_tigers_logo_primary_19941509.png","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/Tigers-alternate.vresize.350.350.medium.0.png","colors":["#8f8f8f","#031e3e","#ff6600"],"jersey":"baseball2:hat3","cid":0,"did":1,"pop":4.099658137917144,"stadiumCapacity":50000,"disabled":false},{"tid":10,"abbrev":"HOU","region":"Houston","name":"Astros","imgURL":"https://content.sportslogos.net/logos/54/61/full/houston_astros_logo_primary_20001925.png","imgURLSmall":"https://i.imgur.com/wYuE2D0.png","colors":["#d0431a","#00163e","#001840"],"jersey":"baseball2:hat2","cid":1,"did":4,"pop":6.061000174157943,"stadiumCapacity":50000,"disabled":false},{"tid":11,"abbrev":"MIN","region":"Minnesota","name":"Twins","imgURL":"https://content.sportslogos.net/logos/53/65/full/minnesota_twins_logo_primary_1994_sportslogosnet-3849.png","imgURLSmall":"https://dejpknyizje2n.cloudfront.net/gallery/minnesota-twins-mlb-logo-sticker-mlb-12-5309-14a2e8.png","colors":["#ffffff","#031d3d","#d31145"],"jersey":"baseball2:hat","cid":0,"did":1,"pop":1.5958677698706816,"stadiumCapacity":50000,"disabled":false},{"tid":12,"abbrev":"KC","region":"Kansas City","name":"Royals","imgURL":"https://content.sportslogos.net/logos/53/62/full/kansas_city_royals_logo_primary_20028542.png","imgURLSmall":"https://cdn-team-logos.theathletic.com/cdn-cgi/image/width=48,format=auto/https://cdn-team-logos.theathletic.com/team-logo-104-300x300.png","colors":["#6caee5","#002973","#ffffff"],"jersey":"baseball2:hat","cid":0,"did":1,"pop":1.6324072416479078,"stadiumCapacity":50000,"disabled":false},{"tid":13,"abbrev":"LAA","region":"Los Angeles","name":"Angels of Anaheim","imgURL":"https://i.imgur.com/h4rZOHN.png","imgURLSmall":"https://i.imgur.com/h4rZOHN.png","colors":["#a39f9f","#b00403","#fefefe"],"jersey":"baseball4:hat","cid":0,"did":2,"pop":15.00988378792812,"stadiumCapacity":50000,"disabled":false},{"tid":14,"abbrev":"LAD","region":"Los Angeles","name":"Dodgers","imgURL":"https://sports.cbsimg.net/fly/images/mlb/logos/team/light/321.svg","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/119.svg","colors":["#fefefe","#002b6c","#002a6b"],"jersey":"baseball2:hat","cid":1,"did":5,"pop":15.00988378792812,"stadiumCapacity":50000,"disabled":false},{"tid":15,"abbrev":"FLA","region":"Florida","name":"Marlins","imgURL":"https://i.imgur.com/K27afbs.png","imgURLSmall":"https://cdn.freebiesupply.com/logos/large/2x/florida-marlins-1-logo-png-transparent.png","colors":["#00a5e1","#211f1e","#ef3340"],"jersey":"baseball2:hat2","cid":1,"did":3,"pop":6.123889962561769,"stadiumCapacity":50000,"disabled":false},{"tid":16,"abbrev":"MIL","region":"Milwaukee","name":"Brewers","imgURL":"https://content.sportslogos.net/logos/54/64/full/milwaukee_brewers_logo_primary_20004922.png","imgURLSmall":"https://seeklogo.com/images/M/milwaukee-brewers-logo-F18F8E15A7-seeklogo.com.png","colors":["#16233f","#fccc2a","#fff9ed"],"jersey":"baseball2:hat2","cid":1,"did":4,"pop":1.5299786396196087,"stadiumCapacity":50000,"disabled":false},{"tid":17,"abbrev":"CHC","region":"Chicago","name":"Cubs","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&h=200&w=200","imgURLSmall":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/chc.png&scale=crop&cquality=40&location=origin&w=40&h=40","colors":["#ffffff","#00296b","#00296b"],"jersey":"baseball3:hat","cid":1,"did":4,"pop":2.797392821423216,"stadiumCapacity":50000,"disabled":false},{"tid":18,"abbrev":"NYY","region":"New York","name":"Yankees","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&h=200&w=200","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/Yankees-alternate.vresize.350.350.medium.0.png","colors":["#ffffff","#021c3d","#031c3d"],"jersey":"baseball3:hat","cid":0,"did":0,"pop":21.316303220280783,"stadiumCapacity":50000,"disabled":false},{"tid":19,"abbrev":"OAK","region":"Oakland","name":"Athletics","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png&h=200&w=200","imgURLSmall":"https://cdn.bleacherreport.net/images/team_logos/164x164/oakland_athletics.png","colors":["#efb21e","#034638","#efb21e"],"jersey":"baseball4:hat2","cid":0,"did":2,"pop":0.4820939199131468,"stadiumCapacity":50000,"disabled":false},{"tid":20,"abbrev":"PHI","region":"Philadelphia","name":"Phillies","imgURL":"https://content.sportslogos.net/logos/54/70/full/philadelphia_phillies_logo_primary_19922235.png","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/143.svg","colors":["#ffffff","#b7021d","#b7021d"],"jersey":"baseball3:hat","cid":1,"did":3,"pop":5.606267541935029,"stadiumCapacity":50000,"disabled":false},{"tid":21,"abbrev":"ARI","region":"Arizona","name":"Diamondbacks","imgURL":"https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_19981620.png","imgURLSmall":"https://i.imgur.com/oY1kJW7.png","colors":["#cd0030","#211f1e","#c5c3c3"],"jersey":"baseball2:hat2","cid":1,"did":5,"pop":4.098758043222014,"stadiumCapacity":50000,"disabled":false},{"tid":22,"abbrev":"PIT","region":"Pittsburgh","name":"Pirates","imgURL":"https://logos-world.net/wp-content/uploads/2020/05/Pittsburgh-Pirates-Logo-1997-2013.png","imgURLSmall":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Pirates_Logo_2014_Season.png","colors":["#231f20","#fbee28","#212529"],"jersey":"baseball2:hat3","cid":1,"did":4,"pop":1.6672887903695701,"stadiumCapacity":50000,"disabled":false},{"tid":23,"abbrev":"SD","region":"San Diego","name":"Padres","imgURL":"https://logos-world.net/wp-content/uploads/2020/05/San-Diego-Padres-Logo-2004-2010.png","imgURLSmall":"https://i.imgur.com/h0dV6SL.png","colors":["#ffc425","#2f241d","#ffc425"],"jersey":"baseball4:hat3","cid":1,"did":5,"pop":4.662406814753383,"stadiumCapacity":50000,"disabled":false},{"tid":24,"abbrev":"SEA","region":"Seattle","name":"Mariners","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&h=200&w=200","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/Mariners.vresize.350.350.medium.0.png","colors":["#00685e","#031d3d","#c4ced4"],"jersey":"baseball2:hat","cid":0,"did":2,"pop":3.7166156479388426,"stadiumCapacity":50000,"disabled":false},{"tid":25,"abbrev":"SF","region":"San Francisco","name":"Giants","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/137.svg","colors":["#211f1e","#fa440e","#8b6f4e"],"jersey":"baseball2:hat2","cid":1,"did":5,"pop":6.88740357456824,"stadiumCapacity":50000,"disabled":false},{"tid":26,"abbrev":"STL","region":"St. Louis","name":"Cardinals","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/138.svg","colors":["#c5c3c3","#c80425","#fedb00"],"jersey":"baseball2:hat","cid":1,"did":4,"pop":2.161750778055453,"stadiumCapacity":50000,"disabled":false},{"tid":27,"abbrev":"TOR","region":"Toronto","name":"Blue Jays","imgURL":"https://logos-world.net/wp-content/uploads/2020/05/Toronto-Blue-Jays-Logo-2004-2011.png","imgURLSmall":"https://content.sportslogos.net/logos/53/78/full/01g9y2wh6u9hw9f3fj8z40r9a.png","colors":["#c3c1c1","#003ca5","#1d2d5c"],"jersey":"baseball4:hat","cid":0,"did":0,"pop":6.669296758465626,"stadiumCapacity":50000,"disabled":false},{"tid":28,"abbrev":"TB","region":"Tampa Bay","name":"Devil Rays","imgURL":"https://content.sportslogos.net/logos/53/76/full/tampa_bay_devil_rays_logo_primary_20011851.png","imgURLSmall":"https://cdn.freebiesupply.com/logos/large/2x/tampa-bay-devil-rays-8-logo-png-transparent.png","colors":["#fefefe","#001840","#69b5e8"],"jersey":"baseball2:hat3","cid":0,"did":0,"pop":2.7819206731417325,"stadiumCapacity":50000,"disabled":false},{"tid":29,"abbrev":"WAS","region":"Washington","name":"Nationals","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/wsh.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/120.svg","colors":["#ababab","#00173f","#bb042b"],"jersey":"baseball2:hat3","cid":1,"did":3,"pop":6.154323371444516,"stadiumCapacity":50000,"disabled":false}],"gameAttributes":{"confs":[{"cid":0,"name":"American Conference"},{"cid":1,"name":"National Conference"}],"divs":[{"did":0,"cid":0,"name":"East"},{"did":1,"cid":0,"name":"Central"},{"did":2,"cid":0,"name":"West"},{"did":3,"cid":1,"name":"East"},{"did":4,"cid":1,"name":"Central"},{"did":5,"cid":1,"name":"West"}]},"startingSeason":2005, "players": [
+{"startingSeason":2005, "version":55,"meta":{"name":"MLB 2005"},"teams": [{"tid":0,"abbrev":"ATL","region":"Atlanta","name":"Braves","imgURL":"https://i.imgur.com/GJJzTeD.png","imgURLSmall":"https://i.imgur.com/Yah2bHJ.png","colors":["#ba031f","#021050","#eaaa00"],"jersey":"baseball2:hat2","cid":1,"did":3,"pop":5.258783560551695,"stadiumCapacity":50000,"disabled":false},{"tid":1,"abbrev":"BAL","region":"Baltimore","name":"Orioles","imgURL":"https://i.imgur.com/xv0teqD.png","imgURLSmall":"https://i.imgur.com/fJhboQ4.png","colors":["#f24c00","#262423","#ffffff"],"jersey":"baseball2:hat2","cid":0,"did":0,"pop":2.7227687396018845,"stadiumCapacity":50000,"disabled":false},{"tid":2,"abbrev":"NYM","region":"New York","name":"Mets","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/121.svg","colors":["#002c72","#fc5312","#002c72"],"jersey":"baseball2:hat3","cid":1,"did":3,"pop":21.316303220280783,"stadiumCapacity":50000,"disabled":false},{"tid":3,"abbrev":"BOS","region":"Boston","name":"Red Sox","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&h=200&w=200","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/RedSox.vresize.350.350.medium.0.png","colors":["#c80729","#041e3e","#cccccc"],"jersey":"baseball2:hat2","cid":0,"did":0,"pop":7.107815452591124,"stadiumCapacity":50000,"disabled":false},{"tid":4,"abbrev":"CWS","region":"Chicago","name":"White Sox","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/145.svg","colors":["#ffffff","#000000","#c5c3c3"],"jersey":"baseball3:hat","cid":0,"did":1,"pop":8.725872492619143,"stadiumCapacity":50000,"disabled":false},{"tid":5,"abbrev":"CIN","region":"Cincinnati","name":"Reds","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/113.svg","colors":["#ffffff","#d60020","#cc001f"],"jersey":"baseball2:hat","cid":1,"did":4,"pop":1.6268547735791523,"stadiumCapacity":50000,"disabled":false},{"tid":6,"abbrev":"CLE","region":"Cleveland","name":"Indians","imgURL":"https://www.pngmart.com/files/22/Cleveland-Indians-Logo-Transparent-PNG.png","imgURLSmall":"https://i.imgur.com/Ku32uHx.png","colors":["#fefefe","#16233f","#d6002e"],"jersey":"baseball2:hat3","cid":0,"did":1,"pop":1.6874525047429818,"stadiumCapacity":50000,"disabled":false},{"tid":7,"abbrev":"TEX","region":"Texas","name":"Rangers","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/140.svg","colors":["#bb042b","#002973","#bb042b"],"jersey":"baseball2:hat","cid":0,"did":2,"pop":6.708907059973135,"stadiumCapacity":50000,"disabled":false},{"tid":8,"abbrev":"COL","region":"Colorado","name":"Rockies","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/col.png&h=200&w=200","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/Rockies-alternate.vresize.350.350.medium.0.png","colors":["#33006f","#000000","#c4ced4"],"jersey":"baseball:hat2","cid":1,"did":5,"pop":2.6246187356922177,"stadiumCapacity":50000,"disabled":false},{"tid":9,"abbrev":"DET","region":"Detroit","name":"Tigers","imgURL":"https://content.sportslogos.net/logos/53/59/full/detroit_tigers_logo_primary_19941509.png","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/Tigers-alternate.vresize.350.350.medium.0.png","colors":["#8f8f8f","#031e3e","#ff6600"],"jersey":"baseball2:hat3","cid":0,"did":1,"pop":4.099658137917144,"stadiumCapacity":50000,"disabled":false},{"tid":10,"abbrev":"HOU","region":"Houston","name":"Astros","imgURL":"https://content.sportslogos.net/logos/54/61/full/houston_astros_logo_primary_20001925.png","imgURLSmall":"https://i.imgur.com/wYuE2D0.png","colors":["#d0431a","#00163e","#001840"],"jersey":"baseball2:hat2","cid":1,"did":4,"pop":6.061000174157943,"stadiumCapacity":50000,"disabled":false},{"tid":11,"abbrev":"MIN","region":"Minnesota","name":"Twins","imgURL":"https://content.sportslogos.net/logos/53/65/full/minnesota_twins_logo_primary_1994_sportslogosnet-3849.png","imgURLSmall":"https://dejpknyizje2n.cloudfront.net/gallery/minnesota-twins-mlb-logo-sticker-mlb-12-5309-14a2e8.png","colors":["#ffffff","#031d3d","#d31145"],"jersey":"baseball2:hat","cid":0,"did":1,"pop":1.5958677698706816,"stadiumCapacity":50000,"disabled":false},{"tid":12,"abbrev":"KC","region":"Kansas City","name":"Royals","imgURL":"https://content.sportslogos.net/logos/53/62/full/kansas_city_royals_logo_primary_20028542.png","imgURLSmall":"https://cdn-team-logos.theathletic.com/cdn-cgi/image/width=48,format=auto/https://cdn-team-logos.theathletic.com/team-logo-104-300x300.png","colors":["#6caee5","#002973","#ffffff"],"jersey":"baseball2:hat","cid":0,"did":1,"pop":1.6324072416479078,"stadiumCapacity":50000,"disabled":false},{"tid":13,"abbrev":"LAA","region":"Los Angeles","name":"Angels of Anaheim","imgURL":"https://i.imgur.com/h4rZOHN.png","imgURLSmall":"https://i.imgur.com/h4rZOHN.png","colors":["#a39f9f","#b00403","#fefefe"],"jersey":"baseball4:hat","cid":0,"did":2,"pop":15.00988378792812,"stadiumCapacity":50000,"disabled":false},{"tid":14,"abbrev":"LAD","region":"Los Angeles","name":"Dodgers","imgURL":"https://sports.cbsimg.net/fly/images/mlb/logos/team/light/321.svg","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/119.svg","colors":["#fefefe","#002b6c","#002a6b"],"jersey":"baseball2:hat","cid":1,"did":5,"pop":15.00988378792812,"stadiumCapacity":50000,"disabled":false},{"tid":15,"abbrev":"FLA","region":"Florida","name":"Marlins","imgURL":"https://i.imgur.com/K27afbs.png","imgURLSmall":"https://cdn.freebiesupply.com/logos/large/2x/florida-marlins-1-logo-png-transparent.png","colors":["#00a5e1","#211f1e","#ef3340"],"jersey":"baseball2:hat2","cid":1,"did":3,"pop":6.123889962561769,"stadiumCapacity":50000,"disabled":false},{"tid":16,"abbrev":"MIL","region":"Milwaukee","name":"Brewers","imgURL":"https://content.sportslogos.net/logos/54/64/full/milwaukee_brewers_logo_primary_20004922.png","imgURLSmall":"https://seeklogo.com/images/M/milwaukee-brewers-logo-F18F8E15A7-seeklogo.com.png","colors":["#16233f","#fccc2a","#fff9ed"],"jersey":"baseball2:hat2","cid":1,"did":4,"pop":1.5299786396196087,"stadiumCapacity":50000,"disabled":false},{"tid":17,"abbrev":"CHC","region":"Chicago","name":"Cubs","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&h=200&w=200","imgURLSmall":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/chc.png&scale=crop&cquality=40&location=origin&w=40&h=40","colors":["#ffffff","#00296b","#00296b"],"jersey":"baseball3:hat","cid":1,"did":4,"pop":2.797392821423216,"stadiumCapacity":50000,"disabled":false},{"tid":18,"abbrev":"NYY","region":"New York","name":"Yankees","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&h=200&w=200","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/Yankees-alternate.vresize.350.350.medium.0.png","colors":["#ffffff","#021c3d","#031c3d"],"jersey":"baseball3:hat","cid":0,"did":0,"pop":21.316303220280783,"stadiumCapacity":50000,"disabled":false},{"tid":19,"abbrev":"OAK","region":"Oakland","name":"Athletics","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png&h=200&w=200","imgURLSmall":"https://cdn.bleacherreport.net/images/team_logos/164x164/oakland_athletics.png","colors":["#efb21e","#034638","#efb21e"],"jersey":"baseball4:hat2","cid":0,"did":2,"pop":0.4820939199131468,"stadiumCapacity":50000,"disabled":false},{"tid":20,"abbrev":"PHI","region":"Philadelphia","name":"Phillies","imgURL":"https://content.sportslogos.net/logos/54/70/full/philadelphia_phillies_logo_primary_19922235.png","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/143.svg","colors":["#ffffff","#b7021d","#b7021d"],"jersey":"baseball3:hat","cid":1,"did":3,"pop":5.606267541935029,"stadiumCapacity":50000,"disabled":false},{"tid":21,"abbrev":"ARI","region":"Arizona","name":"Diamondbacks","imgURL":"https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_19981620.png","imgURLSmall":"https://i.imgur.com/oY1kJW7.png","colors":["#cd0030","#211f1e","#c5c3c3"],"jersey":"baseball2:hat2","cid":1,"did":5,"pop":4.098758043222014,"stadiumCapacity":50000,"disabled":false},{"tid":22,"abbrev":"PIT","region":"Pittsburgh","name":"Pirates","imgURL":"https://logos-world.net/wp-content/uploads/2020/05/Pittsburgh-Pirates-Logo-1997-2013.png","imgURLSmall":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Pirates_Logo_2014_Season.png","colors":["#231f20","#fbee28","#212529"],"jersey":"baseball2:hat3","cid":1,"did":4,"pop":1.6672887903695701,"stadiumCapacity":50000,"disabled":false},{"tid":23,"abbrev":"SD","region":"San Diego","name":"Padres","imgURL":"https://logos-world.net/wp-content/uploads/2020/05/San-Diego-Padres-Logo-2004-2010.png","imgURLSmall":"https://i.imgur.com/h0dV6SL.png","colors":["#ffc425","#2f241d","#ffc425"],"jersey":"baseball4:hat3","cid":1,"did":5,"pop":4.662406814753383,"stadiumCapacity":50000,"disabled":false},{"tid":24,"abbrev":"SEA","region":"Seattle","name":"Mariners","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&h=200&w=200","imgURLSmall":"https://b.fssta.com/uploads/application/mlb/team-logos/Mariners.vresize.350.350.medium.0.png","colors":["#00685e","#031d3d","#c4ced4"],"jersey":"baseball2:hat","cid":0,"did":2,"pop":3.7166156479388426,"stadiumCapacity":50000,"disabled":false},{"tid":25,"abbrev":"SF","region":"San Francisco","name":"Giants","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/137.svg","colors":["#211f1e","#fa440e","#8b6f4e"],"jersey":"baseball2:hat2","cid":1,"did":5,"pop":6.88740357456824,"stadiumCapacity":50000,"disabled":false},{"tid":26,"abbrev":"STL","region":"St. Louis","name":"Cardinals","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/138.svg","colors":["#c5c3c3","#c80425","#fedb00"],"jersey":"baseball2:hat","cid":1,"did":4,"pop":2.161750778055453,"stadiumCapacity":50000,"disabled":false},{"tid":27,"abbrev":"TOR","region":"Toronto","name":"Blue Jays","imgURL":"https://logos-world.net/wp-content/uploads/2020/05/Toronto-Blue-Jays-Logo-2004-2011.png","imgURLSmall":"https://content.sportslogos.net/logos/53/78/full/01g9y2wh6u9hw9f3fj8z40r9a.png","colors":["#c3c1c1","#003ca5","#1d2d5c"],"jersey":"baseball4:hat","cid":0,"did":0,"pop":6.669296758465626,"stadiumCapacity":50000,"disabled":false},{"tid":28,"abbrev":"TB","region":"Tampa Bay","name":"Devil Rays","imgURL":"https://content.sportslogos.net/logos/53/76/full/tampa_bay_devil_rays_logo_primary_20011851.png","imgURLSmall":"https://cdn.freebiesupply.com/logos/large/2x/tampa-bay-devil-rays-8-logo-png-transparent.png","colors":["#fefefe","#001840","#69b5e8"],"jersey":"baseball2:hat3","cid":0,"did":0,"pop":2.7819206731417325,"stadiumCapacity":50000,"disabled":false},{"tid":29,"abbrev":"WAS","region":"Washington","name":"Nationals","imgURL":"https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/wsh.png&h=200&w=200","imgURLSmall":"https://www.mlbstatic.com/team-logos/team-cap-on-light/120.svg","colors":["#ababab","#00173f","#bb042b"],"jersey":"baseball2:hat3","cid":1,"did":3,"pop":6.154323371444516,"stadiumCapacity":50000,"disabled":false}],"gameAttributes":{"confs":[{"cid":0,"name":"American Conference"},{"cid":1,"name":"National Conference"}],"divs":[{"did":0,"cid":0,"name":"East"},{"did":1,"cid":0,"name":"Central"},{"did":2,"cid":0,"name":"West"},{"did":3,"cid":1,"name":"East"},{"did":4,"cid":1,"name":"Central"},{"did":5,"cid":1,"name":"West"}], "numGamesPlayoffSeries": [5, 7, 7], "numPlayoffByes": 0, "playoffsNumTeamsDiv": 1},"startingSeason":2005, "players": [
     {
         "firstName": "Jose",
         "lastName": "Acevedo",
@@ -155837,10 +155837,13 @@
       "info": {
 
         "did": 2,
+        "cid": 0, 
 
         "srID": "HOU",
 
-        "tid": 10
+        "tid": 10,
+        "imgURL": "https://content.sportslogos.net/logos/53/4929/full/houston_astros_logo_primary_20137038.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/4929/full/houston_astros_logo_primary_20137038.png" 
 
       },
 
@@ -155852,4 +155855,246 @@
 
       "id": 1
 
-    }]}
+    },
+         {
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          5,
+          7,
+          7
+        ],
+        "numPlayoffByes": 6,
+        "playoffsByConf": true,
+        "playoffsNumTeamsDiv": 1
+      },
+      "phase": 0,
+      "season": 2012,
+      "type": "gameAttributes",
+      "id": 2
+    },
+        {
+      "info": {
+        "numGamesPlayoffSeries": [
+          3,
+          5,
+          7,
+          7
+        ],
+        "numPlayoffByes": 4,
+        "playoffsByConf": true,
+        "playoffsNumTeamsDiv": 1
+      },
+      "phase": 0,
+      "season": 2022,
+      "type": "gameAttributes",
+      "id": 3
+    },
+              {"info": {
+        "name": "Angels",
+
+        "tid": 13
+
+      },
+
+      "phase": 0,
+
+      "season": 2016,
+
+      "type": "teamInfo",
+
+      "id": 4
+
+    },
+                      {"info": {
+        "name": "Rays",
+
+        "tid": 28,
+        "imgURL": "https://content.sportslogos.net/logos/53/2535/full/tampa_bay_rays_logo_primary_20085870.png",
+        "imgURLSmall": "https://logos-world.net/wp-content/uploads/2020/05/Tampa-Bay-Rays-Emblem.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2008,
+
+      "type": "teamInfo",
+
+      "id": 5
+              },
+                              {"info": {
+        "name": "Guardians",
+
+        "tid": 6,
+        "imgURL": "https://content.sportslogos.net/logos/53/6804/full/cleveland_guardians_logo_primary_2022_sportslogosnet-5538.png",
+        "imgURLSmall": "https://brandlogos.net/wp-content/uploads/2022/07/cleveland_guardians-logo_brandlogos.net_gjjxe-512x512.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2022,
+
+      "type": "teamInfo",
+
+      "id": 6
+              },
+                              {"info": {
+        "region": "Miami",
+
+        "tid": 15,
+        "imgURL": "https://content.sportslogos.net/logos/54/3637/full/miami_marlins_logo_primary_20128805.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/3637/full/miami_marlins_logo_primary_20128805.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2012,
+
+      "type": "teamInfo",
+
+      "id": 7
+              },
+      {"info": {
+        "tid": 15,
+        "imgURL": "https://content.sportslogos.net/logos/54/3637/full/miami_marlins_logo_primary_20194007.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/3637/full/miami_marlins_logo_alternate_2019_sportslogosnet-7649.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2019,
+
+      "type": "teamInfo",
+
+      "id": 8},
+      {"info": {
+        "tid": 27,
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/mlb_primary/toronto_blue_jays.png",
+        "imgURLSmall": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/mlb_primary/toronto_blue_jays.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2019,
+
+      "type": "teamInfo",
+
+      "id": 9},
+                {"info": {
+        "tid": 1,
+        "imgURL": "https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_20195398.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_20195398.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2019,
+
+      "type": "teamInfo",
+
+      "id": 10},
+                          {"info": {
+        "tid": 21,
+        "imgURL": "https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_20123733.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_alternate_20078923.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2007,
+
+      "type": "teamInfo",
+
+      "id": 11},
+    {"info": {
+        "tid": 16,
+        "imgURL": "https://content.sportslogos.net/logos/54/64/full/6474_milwaukee_brewers-primary-2020.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/64/full/6531_milwaukee_brewers-alternate-2020.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2020,
+
+      "type": "teamInfo",
+
+      "id": 12},
+        {"info": {
+        "tid": 23,
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/San_Diego_Padres_logo.svg/2048px-San_Diego_Padres_logo.svg.png",
+        "imgURLSmall": "https://cdn.freebiesupply.com/images/large/2x/san-diego-padres-logo-transparent.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2012,
+
+      "type": "teamInfo",
+
+      "id": 13},
+                  {"info": {
+        "tid": 23,
+        "imgURL": "https://content.sportslogos.net/logos/54/73/full/7517_san_diego_padres-primary-2020.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/73/full/7760_san_diego_padres-alternate-2020.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2019,
+
+      "type": "teamInfo",
+
+      "id": 14},
+      {"info": {
+        "tid": 29,
+        "imgURL": "https://cdn.freebiesupply.com/images/large/2x/washington-nationals-logo-transparent.png",
+        "imgURLSmall": "https://www.mlbstatic.com/team-logos/team-cap-on-light/120.svg"
+
+      },
+
+      "phase": 0,
+
+      "season": 2011,
+
+      "type": "teamInfo",
+
+      "id": 15},
+                {"info": {
+        "tid": 11,
+        "imgURL": "https://content.sportslogos.net/logos/53/65/full/minnesota_twins_logo_primary_20102311.png",
+        "imgURLSmall": "https://dejpknyizje2n.cloudfront.net/gallery/minnesota-twins-mlb-logo-sticker-mlb-12-5309-14a2e8.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2010,
+
+      "type": "teamInfo",
+
+      "id": 16},
+                          {"info": {
+        "tid": 11,
+        "imgURL": "https://content.sportslogos.net/logos/53/65/full/minnesota_twins_logo_primary_2023_sportslogosnet-3953.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/65/full/minnesota_twins_logo_alternate_2023_sportslogosnet-9517.png"
+
+      },
+
+      "phase": 0,
+
+      "season": 2022,
+
+      "type": "teamInfo",
+
+      "id": 17}
+        ]}
