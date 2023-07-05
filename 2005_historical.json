@@ -125936,7 +125936,7 @@
         "firstName": "Shohei",
         "lastName": "Ohtani",
         "tid": -2.0,
-        "pos": "RP",
+        "pos": "SP",
         "born": {
             "year": 1994.0
         },
@@ -125944,7 +125944,7 @@
             {
                 "hgt": 57.0,
                 "spd": 68.0,
-                "hpw": 59,
+                "hpw": 68,
                 "con": 60,
                 "eye": 44,
                 "gnd": 20.0,
@@ -125954,7 +125954,7 @@
                 "ppw": 86.0,
                 "ctl": 39.0,
                 "mov": 46.0,
-                "endu": 3.0
+                "endu": 63.0
             }
         ],
         "draft": {
